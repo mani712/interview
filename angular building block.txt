@@ -1,0 +1,12 @@
+Building Blocks Of angular?
+
+   .Components
+   .Modules
+   .Directives
+   .Decorators
+   .Pipes
+   .Data Binding
+   .Templates
+   .Metadata
+   .Services
+   .Dependency Injection
